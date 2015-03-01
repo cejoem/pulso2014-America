@@ -54,3 +54,8 @@ Reglas
 2. Toda etiqueta le corresponde apertura y cierre
 3. Todos los atributos van en minusculas y entre comillas
 4. Identar correctamente
+
+Sincronizar Branche actualiza del master al clon local
+
+span es una etiqueta para diferenciar un texto o area de texto
+sin utilizar una caja
