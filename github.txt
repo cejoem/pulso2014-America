@@ -1,0 +1,24 @@
+320px ancho del iphone retina 640px
+frenar el diseño a 1200px y no se expanda mas 
+GIT SISTEMA DE GESTION DE CONTROLES CREADO POR LINUS TORVALDS
+GIT HUB: Creado en san franciso, la red social de programadores, tiene apps
+para Windows y Android
+
+Repositorio de Codigo 
+Maester
+Crears un clon local
+1. Múltiples Versiones del mismo código.  Git fusiona los cambios en una
+base de datos atómica.
+2. Cambios Delta. Porque internamente es una base de datos atómica. Solo cambia
+una parte del codigo.
+3. Historial de cada archivo.
+4. Múltiples persona trabajan en el mismo archivo.
+5. Tiene Ramas Branches
+	*master (github.com) REPOSITORIO PRINCIPAL
+	*master (disco duro) REPO LOCAL
+		*master
+		*experimental: Ramas Alternativas solo para pruebas locales
+		*MERGE fusión entre rama experimental y master
+	*master (servicor.com) REPO PRODUCCION
+Modifique una line
+
