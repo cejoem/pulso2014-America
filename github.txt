@@ -24,3 +24,33 @@ Modifique una linea
 Modifique otra nueva linea
 Fork crear un clon del repositorio en el propio sistema de github
 
+<!DOCTYPE html> es una declaración del lenguaje que se va a utilizar
+que se va a utilizar HTML5
+lang para el idioma solo un idioma
+Dominio y subdominios para tener varios idiomas
+.eu
+.br
+.mex
+Subdominios dentro del pagina en el hosting existen
+meta description="" debe de ser 160 caracteres no se debe
+de repetir en cada url
+meta keywords no se usa
+Nunca se repite el title en las URL
+
+Drupal cms bajar
+Ghost cms en node.js
+
+em enfasis cursica
+strob negrita fuerte en html
+
+id solo se utiliza cuando no se repite una etiqueta
+
+Para que una imagen se vea bien en retina tiene que estar al doble
+es decir si es de 160x160 se va a desplegar a 80x80
+
+xhtml
+Reglas
+1. Todas la etiquetas deben de estar en minusculas
+2. Toda etiqueta le corresponde apertura y cierre
+3. Todos los atributos van en minusculas y entre comillas
+4. Identar correctamente
