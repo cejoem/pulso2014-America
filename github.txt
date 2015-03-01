@@ -22,4 +22,5 @@ una parte del codigo.
 	*master (servicor.com) REPO PRODUCCION
 Modifique una linea
 Modifique otra nueva linea
+Fork crear un clon del repositorio en el propio sistema de github
 
