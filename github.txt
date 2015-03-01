@@ -20,5 +20,6 @@ una parte del codigo.
 		*experimental: Ramas Alternativas solo para pruebas locales
 		*MERGE fusión entre rama experimental y master
 	*master (servicor.com) REPO PRODUCCION
-Modifique una line
+Modifique una linea
+Modifique otra nueva linea
 
