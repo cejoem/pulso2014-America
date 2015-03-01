@@ -48,6 +48,7 @@ id solo se utiliza cuando no se repite una etiqueta
 Para que una imagen se vea bien en retina tiene que estar al doble
 es decir si es de 160x160 se va a desplegar a 80x80
 
+
 xhtml
 Reglas
 1. Todas la etiquetas deben de estar en minusculas
@@ -59,3 +60,4 @@ Sincronizar Branche actualiza del master al clon local
 
 span es una etiqueta para diferenciar un texto o area de texto
 sin utilizar una caja
+Br solo se utilizar para el contenido de texto en parrafo
