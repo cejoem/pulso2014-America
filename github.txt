@@ -5,7 +5,7 @@ GIT HUB: Creado en san franciso, la red social de programadores, tiene apps
 para Windows y Android
 
 Repositorio de Codigo 
-Maester
+Master
 Crears un clon local
 1. Múltiples Versiones del mismo código.  Git fusiona los cambios en una
 base de datos atómica.
@@ -19,7 +19,7 @@ una parte del codigo.
 		*master
 		*experimental: Ramas Alternativas solo para pruebas locales
 		*MERGE fusión entre rama experimental y master
-	*master (servicor.com) REPO PRODUCCION
+	*master (servidor.com) REPO PRODUCCION
 Modifique una linea
 Modifique otra nueva linea
 Fork crear un clon del repositorio en el propio sistema de github
@@ -41,7 +41,7 @@ Drupal cms bajar
 Ghost cms en node.js
 
 em enfasis cursica
-strob negrita fuerte en html
+strong negrita fuerte en html
 
 id solo se utiliza cuando no se repite una etiqueta
 
@@ -61,3 +61,15 @@ Sincronizar Branche actualiza del master al clon local
 span es una etiqueta para diferenciar un texto o area de texto
 sin utilizar una caja
 Br solo se utilizar para el contenido de texto en parrafo
+
+linode VPS
+Digital Ocean VPS
+Infranet Working twiwt que diga que soy estudiante
+retina display siempre se debe de diseñar al doble
+del tamaño del que se va a publicar
+
+hype css efectos
+
+CDN Content Delivery Network Contenido en varios servidores
+
+el archivo se ha modificado
